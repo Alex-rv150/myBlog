@@ -1,2 +1,2 @@
 # myBlog
-El mejor Blog del mundo 
+## The best world's blog.
