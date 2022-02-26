@@ -1,1 +1,0 @@
-crea un confilcto pull, haz el mismo cambio en main del hub y en el local, luego crea un pull 
